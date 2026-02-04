@@ -1,1 +1,0 @@
-Hello putti, Terraform Day 8 is working!
