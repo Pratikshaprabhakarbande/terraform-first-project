@@ -1,62 +1,21 @@
-\# Automated File Creation using Terraform (Beginner DevOps Project)
+# Terraform First Project – Day 10
 
+## Project Summary
 
+• Created Terraform modules  
+• Generated files automatically  
+• Used terraform init, plan, apply  
+• Verified outputs  
+• Destroyed resources using terraform destroy  
+• Pushed project to GitHub  
 
-\## Project Description
+## Tools Used
 
-This project demonstrates Infrastructure as Code using Terraform.
+• Terraform  
+• Git  
+• GitHub  
+• Git Bash / Windows CMD  
 
-A reusable module creates files automatically with custom content.
+## Status
 
-
-
-\## Tools Used
-
-\- Terraform
-
-\- Windows CMD
-
-\- VS Code
-
-
-
-\## What I implemented
-
-\- Terraform initialization
-
-\- Module creation
-
-\- Variable usage
-
-\- Terraform plan \& apply
-
-\- Automated file generation
-
-
-
-\## Output
-
-Terraform creates a file with custom text:
-
-"Hello putti, Terraform Day 8 is working!"
-
-
-
-\## Skills Gained
-
-\- Terraform basics
-
-\- Modules
-
-\- Infrastructure as Code
-
-\- Debugging
-
-\- DevOps workflow
-
-
-
-\## Author
-
-Putti
-
+Project completed successfully.
